@@ -4,7 +4,7 @@
 Notebook repository focused in the development of an AI Drug Discovery
 machine learning model from scratch. 
 
-## [Data Collection and Pre-Processing](https://github.com/carineribeirost)
+## [Data Collection and Pre-Processing](https://github.com/carineribeirost/machine-learning-bioactivity-predictor-regression-model/blob/main/Data%20Collection%20and%20Pre-Processing.ipynb)
 Collect and pre-process biological activity data from
 ChEMBL database.
 
