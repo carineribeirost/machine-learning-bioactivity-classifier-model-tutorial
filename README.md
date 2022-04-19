@@ -8,7 +8,7 @@ machine learning model from scratch.
 Collect and pre-process biological activity data from
 ChEMBL database.
 
-## [Data Preparation](https://github.com/carineribeirost)
+## [Data Preparation](https://github.com/carineribeirost/machine-learning-bioactivity-predictor-regression-model/blob/main/Dataset_Preparation.ipynb)
 Compute the molecular descriptors using the PADEL-Descriptor software and 
 prepare the dataset (X and Y dataframes) that will be used for Model Building.
 
