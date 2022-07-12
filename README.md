@@ -1,4 +1,4 @@
-# Machine Learning Bioactivity Tutorial - Classifier Model
+# Machine Learning Tutorial - Bioactivity Classifier Model
 
 Notebook repository focused in the development of an AI Drug Discovery
 machine learning model from scratch. 
