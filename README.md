@@ -20,13 +20,6 @@ Use the computed molecular descriptors (X variables)
 to build a classifier model for predicting the bioactivity class (Y variable).
 The code also includes: nested and k-fold cross-validation.
 
-## [Exploratory Data Analysis - SOON](https://github.com/carineribeirost) 
-Perform exploratory data analysis by making simple box 
-and scatter plots to discern differences of the 
-active and inactive sets of compounds and Visualize the 
-chemical space using PCA and t-SNE 
-
-
 ## Libraries used
 
 * [Pandas](https://pandas.pydata.org/) - python package for easy and intuitive data manipulation and analysis
